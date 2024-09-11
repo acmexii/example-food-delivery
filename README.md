@@ -60,6 +60,8 @@
     1. 배달상태가 바뀔때마다 카톡 등으로 알림을 줄 수 있어야 한다  Event driven
 
 
+![image](https://github.com/user-attachments/assets/954cf8ac-515e-4a8f-83b0-f6495853546e)
+
 # 체크포인트
 
 - 분석 설계
